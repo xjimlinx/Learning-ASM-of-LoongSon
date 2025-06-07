@@ -1,0 +1,12 @@
+
+CHAP1/asm.txt
+CHAP1/test_add
+CHAP1/Basic-Integer-Instructions/test2-sub/test2_sub
+CHAP1/Basic-Integer-Instructions/test2-add/test2_add2
+CHAP1/Basic-Integer-Instructions/test_add
+CHAP2/hello.o
+CHAP2/hello.i
+CHAP2/hello.s
+CHAP2/hello
+/TOOLS/la_tools/target
+TOOLS/la_tools/Cargo.lock
