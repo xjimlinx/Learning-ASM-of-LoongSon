@@ -1,0 +1,21 @@
+[package]
+name = "lart"
+version = "0.1.0"
+edition = "2021"
+description = "loongarch-rust toolkit, basic toolkit writed in rust for loongarch"
+authors = ["xein 1021538027@qq.com"]
+license = "MIT"
+
+[lib]
+name = "lart"
+
+# [[bin]]
+# name = "dec2bin"
+# path = "src/bin/dec2bin.rs"
+
+# [[bin]]
+# name = "bin2dec"
+# path = "scr/bin/bin2dec.rs"
+
+[dependencies]
+
